@@ -1,7 +1,6 @@
-# Sumador de Números en Archivo
+# Nombre Proyecto o script: 
 
 
-## Uso
 
 
 ## Salida
@@ -10,11 +9,29 @@
 
 
 ## Pruebas 
+=======
+## Uso 
+
+
+## Salida
+
+
+
+## Control de errores
+
+
+## Pruebas
+
+
 
 ## Datos
 
 
 ## Metadatos y documentación
+
+
+=======
+
 
 ## Código fuente
 

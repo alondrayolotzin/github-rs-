@@ -1,11 +1,18 @@
-# Sumador de Números en Archivo
+
 
 Fecha:
+=======
+
+Fecha: 
+
 
 **Participantes**:
 
 
 ## Descripción del Problema
+
+=======
+
 
 
 
@@ -21,6 +28,9 @@ Fecha:
 
 
 
+
+=======
+
 #### Caso de uso: Sumar Números
 
 ```
@@ -35,11 +45,19 @@ Fecha:
          +---------------+
 ```
 
+
 - **Actor**: 
+- **Descripción**:
+
+=======
+- **Actor**:
 - **Descripción**:
 
 - **Flujo principal**:
 
 	
 - **Flujos alternativos**:
+
 	
+=======
+
