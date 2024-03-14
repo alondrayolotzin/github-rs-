@@ -6,7 +6,7 @@ Fecha:
 Fecha: 
 
 
-**Participantes**:
+**Participantes**: Alondra Yolotzin Márquez Mendoza 
 
 
 ## Descripción del Problema
