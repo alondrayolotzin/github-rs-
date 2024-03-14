@@ -1,5 +1,5 @@
 # Nombre proyecto o script: 
-Descripción del proyecto en general. 
+Descripción del proyecto en general.
 
 
 
@@ -9,25 +9,27 @@ Descripción del proyecto en general.
 
 
 ## Pruebas 
+
+
 =======
 ## Uso 
 
 
-## Salida
+## Salida.
 
 
 
-## Control de errores
+## Control de errores.
 
 
-## Pruebas
+## Pruebas.
 
 
 
-## Datos
+## Datos.
 
 
-## Metadatos y documentación
+## Metadatos y documentación.
 
 
 =======
